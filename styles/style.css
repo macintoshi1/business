@@ -30,7 +30,7 @@ body {
   display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
     /* === 共通の内部コンテナ === */
     .fv-inner,
     .results-inner,
@@ -164,7 +164,7 @@ body {
   object-fit: contain;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
     /* === ファーストビュー === */
   .pc-only {
     display: none;
@@ -358,7 +358,7 @@ body {
 }
 
 /* CTAボックスのスマホ用スタイル */
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .cta-box {
     position: static;
     width: 100%;
@@ -544,7 +544,7 @@ body {
   height: auto;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .results {
     margin-top: 0;
     padding: 40px 20px;
@@ -975,7 +975,7 @@ body {
   display: block;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   /* === 特典セクション === */
   .benefits {
     margin-top: 160px;
@@ -1106,7 +1106,7 @@ body {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .benefit-next {
     margin-top: 40px;
     margin-bottom: -62px;
@@ -1189,7 +1189,7 @@ body {
   display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   /* PC用を非表示 */
   .problems-bubbles {
     display: none;
@@ -1354,7 +1354,7 @@ body {
 }
 
 /* Solutionセクションのスマートフォン向けスタイル */
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .solution {
     margin-top: -120px;
     padding-top: 160px;
@@ -1713,7 +1713,7 @@ body {
   background-color: #00b7a5;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .method-cards {
     width: 335px;
     margin: 0 auto;
@@ -2206,7 +2206,7 @@ body {
   margin-top: 114px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
     /* === お悩みセクション === */
     .troubles-content {
       max-width: 375px;
@@ -2403,7 +2403,7 @@ body {
   margin-bottom: 16px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
     /* === effect-cards スマートフォン向けスタイル === */
     .effect-cards {
       display: flex;
@@ -2527,7 +2527,7 @@ body {
   margin: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .line-effects-bottom-inner {
     max-width: 335px;
     margin: 0 auto;
@@ -2554,7 +2554,7 @@ body {
   margin-bottom: -25px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   /* .results-02 {
     margin: 0 auto;
   }; */
@@ -2658,7 +2658,7 @@ body {
   margin-top: 78px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .why-insource {
     margin-top: 216px;
     background-image: linear-gradient(90deg, #3cb1c9 0%, #39cf7e 100%), url('../images/section-background.jpg');
@@ -2779,7 +2779,7 @@ body {
   display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .curriculum-title {
     max-width: 335px;
     font-size: 20px;
@@ -2902,7 +2902,7 @@ body {
   display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .day-content {
     max-width: 275px;
   }
@@ -3304,7 +3304,7 @@ body {
   display: block;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .instructors {
     padding: 48px 0;
   }
@@ -3428,7 +3428,7 @@ body {
   font-weight: 300;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .faq {
     padding: 48px 0;
   }
@@ -3579,7 +3579,7 @@ body {
   opacity: 0.7;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .download {
     padding: 48px 0;
   }
@@ -3675,7 +3675,7 @@ body {
   margin: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   .line-issues-content {
     flex-direction: column;
     width: 335px;
@@ -3711,7 +3711,7 @@ body {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 435px) {
   /* === 共通スタイル === */
   .pc-only {
     display: none;
